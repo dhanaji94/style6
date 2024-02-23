@@ -1,0 +1,45 @@
+*{
+    
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+body{
+    width: ;
+    height: 100vh;
+    background: url(top-view-food-frame-with-copy-space.jpg );
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+nav{
+    width: 100%;
+    height: 100px;
+    background-color: orangered;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+  
+}
+.logo{
+    font-size: 80px;
+    font-weight: 700;
+    color: white;
+    font-style: bold;
+    padding-left: 40px;
+}
+ul{
+
+    word-spacing: 20px;
+    
+}
+a{
+    font-size:20px ;
+    font-weight: 300;
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    color: black;
+}
